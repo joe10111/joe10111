@@ -1,16 +1,27 @@
-### Hi there 👋
+# Hello, I'm Joe 
+:evergreen_tree: Currently Located In Seattle, WA :evergreen_tree:
 
-<!--
-**joe10111/joe10111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+Passionate and dedicated software developer, currently enriching my expertise at the Turing School of Software and Design with a focus on C#, .NET development, and professional growth. My journey, marked by overcoming challenges and self-directed learning, has fueled my excitement for technology and problem-solving. As I transition into the professional world, I am actively seeking entry-level roles and internship opportunities, particularly those that allow me to leverage my skills in C# .NET. My goal is to contribute to impactful software projects, continuously learn, and grow within a collaborative and innovative environment.
 
-Here are some ideas to get you started:
+## Skills
+- **Programming Languages:** C#, JavaScript, C++, Objective-C
+- **Web Technologies:** HTML, CSS, Bootstrap, ASP.NET MVC, ASP.NET Core
+- **Database Management:** SQL, Entity Framework, Identity Framework, pgAdmin
+- **Development Tools:** xUnit, Github, Git/version control, Postman, Serilog
+- **Methodologies:** OOP, LINQ, REST API, TDD, Agile development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Education
+- **Turing School of Software and Design (2023-Present):**
+  - Focus: C# and .NET Development
+
+## Professional Development
+- **Self-Study in Full-Stack Web Development (2021-2022):**
+  - Concentration: Node.js, HTML, CSS, Ubuntu Terminal
+
+## Connect with Me
+[LinkedIn](https://www.linkedin.com/in/joe-centeno/) | [Email](centeno.joe@gmail.com)
+
+---
+
+*“In the middle of difficulty lies opportunity.” – Albert Einstein*
