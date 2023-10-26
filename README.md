@@ -20,7 +20,7 @@ Passionate and dedicated software developer, currently enriching my expertise at
   - Concentration: Node.js, HTML, CSS, Ubuntu Terminal
 
 ## Connect with Me
-[LinkedIn](https://www.linkedin.com/in/joe-centeno/) | [Email](centeno.joe@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/joe-centeno/) 
 
 ---
 
