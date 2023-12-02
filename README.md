@@ -8,7 +8,7 @@ Passionate and dedicated software developer, currently enriching my expertise at
 - **Programming Languages:** C#, JavaScript, C++, Objective-C
 - **Web Technologies:** HTML, CSS, Bootstrap, ASP.NET MVC, ASP.NET Core
 - **Database Management:** SQL, Entity Framework, Identity Framework, pgAdmin
-- **Development Tools:** xUnit, Github, Git/version control, Postman, Serilog
+- **Development Tools:** xUnit, Github, Git, Postman, Serilog
 - **Methodologies:** OOP, LINQ, REST API, TDD, Agile development
 
 ## Education
