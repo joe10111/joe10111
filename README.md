@@ -16,8 +16,9 @@ Passionate and dedicated software developer, currently enriching my expertise at
   - Focus: C# and .NET Development
 
 ## Professional Development
-- **Self-Study in Full-Stack Web Development (2021-2022):**
+- **Self-Study in Full-Stack Web Development While Working Part Time (2022-2023):**
   - Concentration: Node.js, HTML, CSS, Ubuntu Terminal
+- 
 
 ## Connect with Me
 [LinkedIn](https://www.linkedin.com/in/joe-centeno/) 
