@@ -24,4 +24,5 @@ Passionate and dedicated software developer, currently enriching my expertise at
 
 ---
 
-*“In the middle of difficulty lies opportunity.” – Albert Einstein*
+*"Programs must be written for people to read, and only incidentally for machines to execute."
+— Harold Abelson, co-author of "Structure and Interpretation of Computer Programs"*
