@@ -18,7 +18,6 @@ Passionate and dedicated software developer, currently enriching my expertise at
 ## Professional Development
 - **Self-Study in Full-Stack Web Development While Working Part Time (2022-2023):**
   - Concentration: Node.js, HTML, CSS, Ubuntu Terminal
-- 
 
 ## Connect with Me
 [LinkedIn](https://www.linkedin.com/in/joe-centeno/) 
