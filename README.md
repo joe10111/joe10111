@@ -12,7 +12,7 @@ Passionate and dedicated software developer, currently enriching my expertise at
 - **Methodologies:** OOP, LINQ, REST API, TDD, Agile development
 
 ## Education
-- **Turing School of Software and Design (2023-Present):**
+- [**Turing School of Software and Design (2023-Present):**](https://turing.edu/launch)
   - Focus: C# and .NET Development
 
 ## Professional Development
