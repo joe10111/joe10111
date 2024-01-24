@@ -14,6 +14,7 @@ Passionate and dedicated software developer, currently enriching my expertise at
 ## Education
 - [**Turing School of Software and Design (2023-Present):**](https://turing.edu/launch)
   - Focus: C# and .NET Development
+- Capstone Project is Now Live! [**Code Whisper AI**](https://codewhispererai.azurewebsites.net)
 
 ## Professional Development
 - **Self-Study in Full-Stack Web Development While Working Part Time (2022-2023):**
