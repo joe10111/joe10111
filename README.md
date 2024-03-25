@@ -5,14 +5,14 @@
 Passionate and dedicated software developer, currently enriching my expertise at the Turing School of Software and Design with a focus on C#, .NET development, and professional growth. My journey, marked by overcoming challenges and self-directed learning, has fueled my excitement for technology and problem-solving. As I transition into the professional world, I am actively seeking entry-level roles and internship opportunities, particularly those that allow me to leverage my skills in C# .NET. My goal is to contribute to impactful software projects, continuously learn, and grow within a collaborative and innovative environment.
 
 ## Skills
-- **Programming Languages:** C#, JavaScript, C++, Objective-C
+- **Programming Languages:** C#, JavaScript, C++
 - **Web Technologies:** HTML, CSS, Bootstrap, ASP.NET MVC, ASP.NET Core
 - **Database Management:** SQL, Entity Framework, Identity Framework, pgAdmin
 - **Development Tools:** xUnit, Github, Git, Postman, Serilog
 - **Methodologies:** OOP, LINQ, REST API, TDD, Agile development
 
 ## Education
-- [**Turing School of Software and Design (2023-Present):**](https://turing.edu/launch)
+- [**Turing School of Software and Design (Jan 2023 - Jan 2024):**](https://turing.edu/launch)
   - Focus: C# and .NET Development
 - Capstone Project is Now Live! [**Code Whisper AI**](https://codewhispererai.azurewebsites.net)
 
