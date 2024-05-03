@@ -1,8 +1,11 @@
 # Hello, I'm Joe 
 :evergreen_tree: Currently Located In Seattle, WA :evergreen_tree:
 
+[**Check Out My Portflio Website!**](https://portfolio24-mfmq.onrender.com)
+
+
 ## About Me
-Passionate and dedicated software developer, currently enriching my expertise at the Turing School of Software and Design with a focus on C#, .NET development, and professional growth. My journey, marked by overcoming challenges and self-directed learning, has fueled my excitement for technology and problem-solving. As I transition into the professional world, I am actively seeking entry-level roles and internship opportunities, particularly those that allow me to leverage my skills in C# .NET. My goal is to contribute to impactful software projects, continuously learn, and grow within a collaborative and innovative environment.
+Passionate and dedicated software developer, A proud graduate of The Launch Program at the Turing School of Software and Design, I specialize in C# and .NET, focusing on creating accessible software solutions. As I transition into the professional world, I am actively seeking entry-level roles and internship opportunities, particularly those that allow me to leverage my skills in C# .NET. My goal is to contribute to impactful software projects, continuously learn, and grow within a collaborative and innovative environment.
 
 ## Skills
 - **Programming Languages:** C#, JavaScript, C++
